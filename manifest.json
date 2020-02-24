@@ -1,7 +1,7 @@
 {
  "name": "Rakiura - Magnífica Residencia",
- "theme_color": "#FFFFFF",
  "description": "Una propiedad de ensueño en el mejor barrio cerrado de Asunción.",
+ "background_color": "#FFFFFF",
  "start_url": "index.htm",
  "icons": [
   {
@@ -40,6 +40,6 @@
    "sizes": "64x64"
   }
  ],
- "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "display": "fullscreen"
 }
